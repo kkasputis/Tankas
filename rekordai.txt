@@ -1,4 +1,4 @@
-48, :D, -2, 140, Insane
+48, :D, 0, 140, Insane
 28,artarpas, 9, 48, Insane
 27,Kipras, 9, 0, Sunkus
 
